@@ -11,7 +11,7 @@
 <p>
 Created a Newsletter Signup website that post the data(Name &amp; Email) entered by the user to Mailchimp's Servers via their Mailchimp API and deployed the server using Heroku. <br>
 You can visit the site at 👉 https://secure-plains-35346.herokuapp.com/
-</p>
+</p> 
 
 ### Node Libraries and Framework used
 <p>
@@ -19,6 +19,13 @@ You can visit the site at 👉 https://secure-plains-35346.herokuapp.com/
   <li>express</li>
   <li>request</li>
 </p>
+
+### Links for Resources
+<li><a href="https://mailchimp.com/developer/guides/get-started-with-mailchimp-api-3/" target="_blank">Mailchimp Getting Started</a></li>
+<li><a href="https://mailchimp.com/developer/reference/" target="_blank">Mailchimp API Reference</a></li>
+<li><a href="https://mailchimp.com/developer/reference/lists/#post_/lists/-list_id-" target="_blank">Mailchimp List Documentation</a></li>
+<li>Deploy to <a href="https://www.heroku.com/" target="_blank">Heroku</a><a href="https://any-api.com/" target="_blank"></a></li>
+<li><a href="https://devcenter.heroku.com/articles/getting-started-with-nodejs" target="_blank">Heroku Node.js Documentation</a> </li>
 
 ### The Sign Up Page
 ![image](https://user-images.githubusercontent.com/85879976/181520739-35e4a46b-160e-492c-925c-10cc8f165138.png)
